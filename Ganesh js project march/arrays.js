@@ -1,5 +1,5 @@
 let district =["chennai","trichy","villupuram","coimbatore"];
-let mobile = ["oneplus","samsung","oppo","iphone"];
+let mobile = ["oneplus","samsung","oppo","iphone","Lenovo"];
 console.log(mobile[1])
 console.log(mobile[3])
 mobile.push("vivo");
